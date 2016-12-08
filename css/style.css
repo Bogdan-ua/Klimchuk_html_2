@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f2f4f3;
+}
+.content {
+  margin: 0 auto;
+  width: 500px;
+  font-family: Arial;
+}
+div {
+  padding-bottom: 18.75px;
+}
+img {
+  border: 1px ;
+  border-color: #8f8f8f;
+  border-style: solid;
+}
+h2, p {
+  text-align: center;
+}
+.pib, .desire, .contacts {
+  border-bottom: 1px solid #d7d4d8;
+}
+ul {
+  margin-bottom: 0px;
+}
+a {
+  font-style: italic;
+}
+span {
+  padding-left: 40px;
+}
